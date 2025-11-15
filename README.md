@@ -63,10 +63,10 @@ Y= A⊕B
 
 
 **PROGRAM**
-<img width="653" height="490" alt="image" src="https://github.com/user-attachments/assets/93e29402-7795-4d3a-b01f-7a97c35b94d4" />
 
  Developed by: Harish P RegisterNumber: 25015017
- 
+ <img width="653" height="490" alt="image" src="https://github.com/user-attachments/assets/93e29402-7795-4d3a-b01f-7a97c35b94d4" />
+
 **Logic symbol & Truthtable**
 
 
