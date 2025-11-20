@@ -76,5 +76,5 @@ Y= A⊕B
 <img width="1133" height="643" alt="Screenshot 2025-11-15 100125" src="https://github.com/user-attachments/assets/78ad17a0-9665-4ffd-b108-06834c98cd11" />
 
 **Result:**
-
+Thus the truth table of logic gates in Quartus II using Verilog programming have been studied and verified successfully.
 
